@@ -1,0 +1,17 @@
+.table {
+    font-size: large;
+    color: $white-color !important;
+    text-align: center;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.table-content {
+    vertical-align: middle !important;
+
+    &:hover {
+        color: black;
+    }
+}
