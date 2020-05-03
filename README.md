@@ -9,7 +9,8 @@ A simple implementation of python flask as backend with an React App as correspo
 * flask
 * flask_sqlalchemy
 * flask_cors
---> install via `pip install flask flask_sqlalchemy flask_cors`
+
+> install via `pip install flask flask_sqlalchemy flask_cors`
 
 * npm to have the frontend working
 
