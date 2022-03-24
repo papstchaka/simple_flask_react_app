@@ -1,4 +1,23 @@
 # simple_flask_react_app
+
+<p align="center">
+    <p align="center">
+        <a href="https://github.com/papstchaka/simple_flask_react_app/actions">
+          <img alt="Code Quality" src="https://github.com/papstchaka/simple_flask_react_app/actions/workflows/codeql-analysis.yml/badge.svg"/>
+        </a>
+        <a href="https://github.com/papstchaka/simple_flask_react_app/issues">
+          <img alt="Issues" src="https://img.shields.io/github/issues/papstchaka/simple_flask_react_app?color=0088ff"/>
+        </a>
+        <a href="https://github.com/papstchaka/simple_flask_react_app/pulls">
+          <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/papstchaka/simple_flask_react_app?color=0088ff"/>
+        </a>
+    </p>
+</p>
+
+---
+
+<br></br>
+
 A simple implementation of python flask as backend with an React App as corresponding frontend. The App provides the possibility of adding and managing notes with corresponding deadline Dates (just for Showcase reasons) which are stored in `./backend/note.db`
 
 <h2 align="center">
