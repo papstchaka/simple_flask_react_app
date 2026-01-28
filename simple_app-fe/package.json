@@ -8,12 +8,17 @@
     "@testing-library/user-event": "latest",
     "axios": "latest",
     "bootstrap": "latest",
-    "node-sass": "latest",
+    "sass": "latest",
     "react": "latest",
     "react-bootstrap": "latest",
     "react-dom": "latest",
     "react-scripts": "latest",
     "reactstrap": "latest"
+  },
+  "overrides": {
+    "nth-check": "^2.0.1",
+    "postcss": "^8.4.31",
+    "webpack-dev-server": "^5.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
